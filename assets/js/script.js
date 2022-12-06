@@ -1,10 +1,6 @@
 //Variaveis e seleção de elementos
 const apiKey = "ae622f6c8f57ab7f9f157c5292190742";
-<<<<<<< HEAD:assets/js/script.js
-const apiContryURL = "https://countryflagsapi.com/png/";
-=======
 const apiContryURL = "https://countryflagsapi.com/svg/";
->>>>>>> 8eb53b90fd9b77a98bfcea97daef1f9c45256a91:js/script.js
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
 const cityElement = document.querySelector("#city")
